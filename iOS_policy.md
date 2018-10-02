@@ -4,12 +4,6 @@ The app was created using the Unity game engine, and it uses advertisements that
 
 https://unity3d.com/legal/privacy-policy
 
-For a more comprehensive view of our policy, please see the below links:
+For a more comprehensive view of our policy, please see the below link:
 
-English: https://www.iubenda.com/privacy-policy/97953668
-
-Deutsch: https://www.iubenda.com/privacy-policy/55377885
-
-Español: https://www.iubenda.com/privacy-policy/22667113
-
-Français: https://www.iubenda.com/privacy-policy/18527663
+ https://www.iubenda.com/privacy-policy/41341860 
